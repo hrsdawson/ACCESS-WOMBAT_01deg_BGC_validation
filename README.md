@@ -26,7 +26,7 @@ Before working, verify that you are on your own branch. Once you are done workin
 
 On the github repository you should now see that a branch has pushed changes, and create a pull request to merge with the main branch.
 
-### Sync your local branch to master
+### Sync your local branch to main
 
 `git checkout main`  
 `git pull origin main`  
