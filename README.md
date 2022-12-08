@@ -8,8 +8,8 @@ Directories of some observational datasets stored on Gadi:
 - **OCCCI chl**: `/g/data/ua8/ocean_color/OCCCI/v5-0/8day/chlor_a/`
 - **Standard vgpm NPP from MODIS**: `/g/data/ua8/NPP/Standard_VGPM/MODIS/`
 - **GEOTRACES (iron)**: `/g/data/ua8/GEOTRACES/idp2021/GEOTRACES_IDP2021_v1/seawater/netcdf/`
-- **WOA18** available via cosima cookbook (https://github.com/COSIMA/cosima-recipes/blob/master/Tutorials/COSIMA_CookBook_Tutorial.ipynb)
-- **GLODAPv2.2022**: `/g/data/ua8/GLODAP/`
+- **WOA18** TBC - only T-S available via cosima cookbook (https://github.com/COSIMA/cosima-recipes/blob/master/Tutorials/COSIMA_CookBook_Tutorial.ipynb)
+- **GLODAPv2.2022** (bottle data, not gridded I believe): `/g/data/ua8/GLODAP/`
 
 .    
 .  
