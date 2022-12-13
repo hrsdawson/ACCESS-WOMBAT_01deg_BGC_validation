@@ -32,4 +32,17 @@ On the github repository you should now see that a branch has pushed changes, an
 `git checkout main`  
 `git pull origin main`  
 `git checkout "your_name"`  
-`git merge origin/main`  
+`git merge origin/main`
+
+## NCI Jupyter Notebook
+
+To launch a jupyter notebook from Gadi you can use NCI Australian Research Environment (ARE).
+
+1. Login to [https://are.nci.org.au](https://are.nci.org.au)
+2. Start a JupyterLab instance
+3. Adjust session walltime, queue, compute size (might need Large or X-Large), project, storage (e.g., gdata/hh5+gdata/e14+gdata/ik11+gdata/ua8)
+4. Under Advanced options add:
+  * **Module directories**: `/g/data/hh5/public/modules`
+  * **Modules**: `conda/analysis3-unstable`
+5. Click launch
+6. Wait for queue to finish then click Open JupyterLab
