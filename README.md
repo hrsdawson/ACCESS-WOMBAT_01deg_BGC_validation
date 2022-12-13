@@ -40,9 +40,10 @@ To launch a jupyter notebook from Gadi you can use NCI Australian Research Envir
 
 1. Login to [https://are.nci.org.au](https://are.nci.org.au)
 2. Start a JupyterLab instance
-3. Adjust session walltime, queue, compute size (might need Large or X-Large), project, storage (e.g., gdata/hh5+gdata/e14+gdata/ik11+gdata/ua8)
+3. Adjust session walltime, queue, compute size (might need Large or X-Large), project, storage (e.g., gdata/hh5+gdata/e14+gdata/ik11+gdata/ua8+gdata/cj50)
 4. Under Advanced options add:
   * **Module directories**: `/g/data/hh5/public/modules`
   * **Modules**: `conda/analysis3-unstable`
 5. Click launch
 6. Wait for queue to finish then click Open JupyterLab
+7. Create a new notebook or open an existing notebook from a directory (via left column).
